@@ -18,7 +18,7 @@ public class lession_20190618 {
     }
     public int a(int a)throws Exception{
        int i= a/0;
-        System.out.println("aaa");
+        System.out.println("aaaa");
        return i;
     }
 }
