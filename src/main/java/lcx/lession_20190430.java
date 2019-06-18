@@ -7,13 +7,23 @@ package lcx;
  */
 public class lession_20190430 {
     public static void main(String[] args) {
-        String a=new String("a");
-        String b=new String("b");
-        String aa="aa";
-        String bb="aa";
-        System.out.println(aa==bb);
+//        String a=new String("a");
+//        String b=new String("b");
+//        String aa="aa";
+//        String bb="aa";
+//        System.out.println(aa==bb);
+//
+//        System.out.println(args);
 
-        System.out.println(args);
+        int i=1;
+        if(i==1){
+            System.out.println("aaaa");
+        }else if(i==1){
+            System.out.println("bbbb");
+        }else {
+            System.out.println("ccccc");
+        }
+
     }
 }
 
