@@ -14,7 +14,7 @@ public class lession_20190618 {
         }catch (Exception e){
             System.out.println("bbb");
         }
-        System.out.println("ccc");
+        System.out.println("cccc");
     }
     public int a(int a)throws Exception{
        int i= a/0;
