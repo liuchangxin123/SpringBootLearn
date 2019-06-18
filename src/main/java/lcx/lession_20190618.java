@@ -12,7 +12,7 @@ public class lession_20190618 {
             lession_20190618 l=new lession_20190618();
             l.a(a);
         }catch (Exception e){
-            System.out.println("bbb");
+            System.out.println("bbbb");
         }
         System.out.println("cccc");
     }
